@@ -57,7 +57,7 @@ p {
   font-weight: 600;
 }
 .project-desciption {
-  padding: 90px 60px;
+  padding: 90px 40px;
 }
 @media (max-width: 900px) {
   h1 {
