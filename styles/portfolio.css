@@ -73,10 +73,9 @@ p {
   padding: 15px 30px;
   transition: all 100ms ease-in-out;
 }
-.btn-branding:hover {
-  color: #05ac88;
+.btn.btn-branding:hover {
   border: 1px solid #05ac88;
-  background-color: white;
+  background-color: #91e2d1;
 }
 .btn-branding-outline {
   color: #039475;
@@ -90,7 +89,7 @@ p {
   text-decoration: none;
   transition: all 100ms ease-in-out;
 }
-.btn-branding-outline:hover {
+.btn.btn-branding-outline:hover {
   background: #039475;
   color: white;
 }
